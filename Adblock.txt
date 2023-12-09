@@ -1,3 +1,18 @@
+!
+! Title: Google
+! Description: Completely blocks all Google-related domains (including YouTube).
+! Homepage: https://github.com/AmazingJilani/adguardhosts
+! Last modified: 2023-12-07T09:05:48.803Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.23
+!
+!
+! Source name: Google
+! Source: https://raw.githubusercontent.com/AmazingJilani/adguardhosts/AdguardHost/Adblock.txt
+!
+! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/AmazingJilani/adguardhosts
+! Last updated: 2023-12-07
+! Analytics
 @@||roblox.com^
 ||adsettings.google.com^
 ||adgoogle.net^
