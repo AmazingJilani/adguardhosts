@@ -19,8 +19,6 @@
 ||staykeen.com^
 ||tangi.co^
 ! DNS
-||gstatic.com^
-||gstatic.net^
 ||KQu0cL-dnsotls-ds.metric.gstatic.com^
 ||2mdn.net^
 ||app-measurement.com^
@@ -1175,13 +1173,6 @@
 ||www.tiltbrush.com^
 ! Proxies
 ! Short Links
-||g.co^
-||goo.gl^
-||goog.le^
-||youtu.be^
-||yt.be^
-||withyoutube.com^
-||ytimg.com^
 ! Fitbit
 ||APVPNEast.corp.fitbit.com^
 ||AWS01-NF-01.corp.fitbit.com^
