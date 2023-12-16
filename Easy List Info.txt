@@ -1,0 +1,24 @@
+EasyList
+EasyList is the primary filter list that removes most adverts from international webpages, including unwanted frames, images and objects. It is the most popular list used by many ad blockers and forms the basis of over a dozen combination and supplementary filter lists.
+
+View EasyList or add it to your ad blocker
+
+EasyPrivacy
+EasyPrivacy is an optional supplementary filter list that completely removes all forms of tracking from the internet, including web bugs, tracking scripts and information collectors, thereby protecting your personal data.
+
+View EasyPrivacy or add it to your ad blocker
+
+EasyList Cookie List
+EasyList Cookie List blocks cookies banners, GDPR overlay windows and other privacy-related notices.
+
+View EasyList Cookie List or add it to your ad blocker
+
+Fanboy's Social Blocking List
+Fanboy's Social Blocking List solely removes Social Media content on web pages such as the Facebook like button and other widgets.
+
+View Fanboy's Social Blocking List or add it to your ad blocker
+
+Fanboy's Annoyance List
+Fanboy's Annoyance List blocks Social Media content, in-page pop-ups and other annoyances; thereby substantially decreasing web page loading times and uncluttering them. EasyList Cookie List and Fanboy's Social Blocking List are already included, there is no need to subscribe to them if you already have Fanboy's Annoyance List.
+
+View Fanboy's Annoyance List or add it to your ad blocker
